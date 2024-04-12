@@ -1,0 +1,12 @@
+body{
+    background-image: url(menu/main\ menu\ principal\ 2.gif);
+    background-size: cover;
+    background-position:center;
+    background-position-y: 1400px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    text-align: justify;
+    padding: 10px;
+    text-indent: 30px;
+}

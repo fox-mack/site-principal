@@ -1,0 +1,12 @@
+body{
+    background-image: url(menu/menu\ vg\ cats.jpg);
+    background-position: 469px;
+    background-size: cover;
+}
+a{
+    text-decoration-color: aquamarine;
+    color: skyblue;
+}
+h1{
+    color: aliceblue;
+}
